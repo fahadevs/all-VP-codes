@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\3-tier architecture\bin\Debug\3-tier architecture.exe.config
+C:\Users\user\source\repos\3-tier architecture\bin\Debug\3-tier architecture.exe
+C:\Users\user\source\repos\3-tier architecture\bin\Debug\3-tier architecture.pdb
+C:\Users\user\source\repos\3-tier architecture\bin\Debug\AppProps1.dll
+C:\Users\user\source\repos\3-tier architecture\bin\Debug\BuisnessLogicLayer.dll
+C:\Users\user\source\repos\3-tier architecture\bin\Debug\DataAccessLayer.dll
+C:\Users\user\source\repos\3-tier architecture\bin\Debug\AppProps1.pdb
+C:\Users\user\source\repos\3-tier architecture\bin\Debug\BuisnessLogicLayer.pdb
+C:\Users\user\source\repos\3-tier architecture\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.csprojAssemblyReference.cache
+C:\Users\user\source\repos\3-tier architecture\obj\Debug\_3_tier_architecture.PresentationLayer.resources
+C:\Users\user\source\repos\3-tier architecture\obj\Debug\_3_tier_architecture.Properties.Resources.resources
+C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.csproj.GenerateResource.cache
+C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.csproj.CopyComplete
+C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.exe
+C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.pdb
