@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\CalculaterAssemblies\bin\Debug\CalculaterAssemblies.exe.config
+C:\Users\user\source\repos\CalculaterAssemblies\bin\Debug\CalculaterAssemblies.exe
+C:\Users\user\source\repos\CalculaterAssemblies\bin\Debug\CalculaterAssemblies.pdb
+C:\Users\user\source\repos\CalculaterAssemblies\bin\Debug\calculation.dll
+C:\Users\user\source\repos\CalculaterAssemblies\bin\Debug\calculation.pdb
+C:\Users\user\source\repos\CalculaterAssemblies\obj\Debug\CalculaterAssemblies.Form1.resources
+C:\Users\user\source\repos\CalculaterAssemblies\obj\Debug\CalculaterAssemblies.Properties.Resources.resources
+C:\Users\user\source\repos\CalculaterAssemblies\obj\Debug\CalculaterAssemblies.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CalculaterAssemblies\obj\Debug\CalculaterAssemblies.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CalculaterAssemblies\obj\Debug\CalculaterAssemblies.csproj.CopyComplete
+C:\Users\user\source\repos\CalculaterAssemblies\obj\Debug\CalculaterAssemblies.exe
+C:\Users\user\source\repos\CalculaterAssemblies\obj\Debug\CalculaterAssemblies.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\linqtoxml1\bin\Debug\linqtoxml1.exe.config
+C:\Users\user\source\repos\linqtoxml1\bin\Debug\linqtoxml1.exe
+C:\Users\user\source\repos\linqtoxml1\bin\Debug\linqtoxml1.pdb
+C:\Users\user\source\repos\linqtoxml1\obj\Debug\linqtoxml1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\linqtoxml1\obj\Debug\linqtoxml1.Properties.Resources.resources
+C:\Users\user\source\repos\linqtoxml1\obj\Debug\linqtoxml1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\linqtoxml1\obj\Debug\linqtoxml1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\linqtoxml1\obj\Debug\linqtoxml1.exe
+C:\Users\user\source\repos\linqtoxml1\obj\Debug\linqtoxml1.pdb
