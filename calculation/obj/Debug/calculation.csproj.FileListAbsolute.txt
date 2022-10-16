@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\calculation\bin\Debug\calculation.pdb
+C:\Users\user\source\repos\calculation\obj\Debug\calculation.csprojAssemblyReference.cache
+C:\Users\user\source\repos\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\calculation\obj\Debug\calculation.dll
+C:\Users\user\source\repos\calculation\obj\Debug\calculation.pdb
+C:\Users\user\source\repos\calculation\obj\Debug\calculation.csproj.CopyComplete

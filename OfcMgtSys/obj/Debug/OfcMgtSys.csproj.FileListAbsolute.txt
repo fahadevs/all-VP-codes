@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\OfcMgtSys\bin\Debug\OfcMgtSys.exe.config
+C:\Users\user\source\repos\OfcMgtSys\bin\Debug\OfcMgtSys.exe
+C:\Users\user\source\repos\OfcMgtSys\bin\Debug\OfcMgtSys.pdb
+C:\Users\user\source\repos\OfcMgtSys\obj\Debug\OfcMgtSys.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OfcMgtSys\obj\Debug\OfcMgtSys.Form1.resources
+C:\Users\user\source\repos\OfcMgtSys\obj\Debug\OfcMgtSys.Properties.Resources.resources
+C:\Users\user\source\repos\OfcMgtSys\obj\Debug\OfcMgtSys.csproj.GenerateResource.cache
+C:\Users\user\source\repos\OfcMgtSys\obj\Debug\OfcMgtSys.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OfcMgtSys\obj\Debug\OfcMgtSys.exe
+C:\Users\user\source\repos\OfcMgtSys\obj\Debug\OfcMgtSys.pdb
