@@ -1,9 +1,0 @@
-C:\Users\user\source\repos\Dbcon\Dbcon\obj\Debug\Dbcon.Form1.resources
-C:\Users\user\source\repos\Dbcon\Dbcon\obj\Debug\Dbcon.Properties.Resources.resources
-C:\Users\user\source\repos\Dbcon\Dbcon\obj\Debug\Dbcon.csproj.GenerateResource.cache
-C:\Users\user\source\repos\Dbcon\Dbcon\obj\Debug\Dbcon.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\Dbcon\Dbcon\bin\Debug\Dbcon.exe.config
-C:\Users\user\source\repos\Dbcon\Dbcon\bin\Debug\Dbcon.exe
-C:\Users\user\source\repos\Dbcon\Dbcon\bin\Debug\Dbcon.pdb
-C:\Users\user\source\repos\Dbcon\Dbcon\obj\Debug\Dbcon.exe
-C:\Users\user\source\repos\Dbcon\Dbcon\obj\Debug\Dbcon.pdb

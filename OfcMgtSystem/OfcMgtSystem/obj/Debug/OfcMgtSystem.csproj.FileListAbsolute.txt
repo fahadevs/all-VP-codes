@@ -1,0 +1,10 @@
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\bin\Debug\OfcMgtSystem.exe.config
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\bin\Debug\OfcMgtSystem.exe
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\bin\Debug\OfcMgtSystem.pdb
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\obj\Debug\OfcMgtSystem.csprojAssemblyReference.cache
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\obj\Debug\OfcMgtSystem.Form1.resources
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\obj\Debug\OfcMgtSystem.Properties.Resources.resources
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\obj\Debug\OfcMgtSystem.csproj.GenerateResource.cache
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\obj\Debug\OfcMgtSystem.csproj.CoreCompileInputs.cache
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\obj\Debug\OfcMgtSystem.exe
+D:\hisham C#\OfcMgtSystem\OfcMgtSystem\obj\Debug\OfcMgtSystem.pdb
