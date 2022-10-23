@@ -2,53 +2,62 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data.SqlClient;
+
 namespace Dbcon
 {
-    public partial class Form1 : Form
+    public partial class SuppliersForm : Form
     {
-        Dbconn db = new Dbconn();
-        public Form1()
+        public SuppliersForm()
         {
             InitializeComponent();
             Display();
         }
+        Dbconn db = new Dbconn();
+        public void Display()
+        {
+            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\lovel\OneDrive\Documents\Shop.mdf;Integrated Security=True;Connect Timeout=30");
 
+            SqlDataAdapter adapt = new SqlDataAdapter("Select * from Suppliers", con);
+            DataTable dt = new DataTable();
+            adapt.Fill(dt);
+            dataGridView1.DataSource = dt;
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             string Name = textBox1.Text;
-            string CellNum = textBox2.Text;
+            string Cell = textBox2.Text;
             string Address = textBox3.Text;
-            string query = "INSERT INTO Employees VALUES('" + Name + "','" + CellNum + "','" + Address + "')";
+            string query = "INSERT INTO Suppliers VALUES('" + Name + "','" + Cell + "','" + Address + "')";
 
-            
-                Dbconn db = new Dbconn();
-                if (db.UDI(query) == true)
-                {
-                    MessageBox.Show("Record Inserted Successfully");
+
+
+            if (db.UDI(query) == true)
+            {
+                MessageBox.Show("Record Inserted Successfully");
                 Display();
-                }
-                else
-                {
-                    MessageBox.Show("Record NOT Inserted ");
-                }
             }
+            else
+            {
+                MessageBox.Show("Record NOT Inserted ");
+            }
+        }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            int Id = int.Parse(textBox4.Text);
             string Name = textBox1.Text;
-            string CellNum = textBox2.Text;
-            string Address = textBox3.Text;
-            string query = "Update Employees set  EmpName='" + Name+ "', EmpCell='" + CellNum + "' , EmpAddress='" + Address + "' where EmpId='" + Id+ "'";
+            string Quantity = textBox2.Text;
+            string Price = textBox3.Text;
+            int Id = int.Parse(textBox4.Text);
+            string query = "Update Suppliers set  SupplierName='" + Name + "', SupplierCell='" + Quantity + "' , SupplierAddress='" + Price + "' where Id='" + Id + "'";
 
 
-            
+
             if (db.UDI(query) == true)
             {
                 MessageBox.Show("Record Updated Successfully");
@@ -63,7 +72,7 @@ namespace Dbcon
         private void button3_Click(object sender, EventArgs e)
         {
             int Id = int.Parse(textBox4.Text);
-            string query = "Delete from Employees where EmpId='" + Id+ "'";
+            string query = "Delete from Suppliers where Id='" + Id + "'";
 
 
             Dbconn db = new Dbconn();
@@ -77,26 +86,17 @@ namespace Dbcon
                 MessageBox.Show("Record NOT Inserted ");
             }
         }
-        public void Display()
-        {
-            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\lovel\OneDrive\Documents\Shop.mdf;Integrated Security=True;Connect Timeout=30");
-
-            SqlDataAdapter adapt = new SqlDataAdapter("Select * from Employees", con);
-            DataTable dt = new DataTable();
-            adapt.Fill(dt);
-            dataGridView1.DataSource = dt;
-        }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            String query = "Select * from Employees where EmpId="+Int32.Parse(textBox4.Text)+"";
+            String query = "Select * from Suppliers where Id=" + Int32.Parse(textBox4.Text) + "";
             DataTable dt = db.Search(query);
-            if(dt!=null && dt.Rows.Count>0)
+            if (dt != null && dt.Rows.Count > 0)
             {
                 textBox1.Text = dt.Rows[0][1].ToString();
-                textBox2.Text = dt.Rows[0]["EmpCell"].ToString();
-                textBox3.Text = dt.Rows[0]["EmpAddress"].ToString();
-                textBox4.Text = dt.Rows[0]["EmpId"].ToString();
+                textBox2.Text = dt.Rows[0][2].ToString();
+                textBox3.Text = dt.Rows[0][3].ToString();
+                textBox4.Text = dt.Rows[0][0].ToString();
 
             }
             else
@@ -105,12 +105,23 @@ namespace Dbcon
             }
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void button5_Click(object sender, EventArgs e)
+        {
+            new Dashboard().Show();
+            this.Close();
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
         {
 
         }
 
         private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
@@ -143,17 +154,6 @@ namespace Dbcon
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
-        }
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            new Dashboard().Show();
-            this.Close();
         }
     }
 }
