@@ -9,8 +9,9 @@ namespace DataAccessLayer
 {
     public class Dbcon
     {
-        SqlConnection con= new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\user\Documents\employee.mdf;Integrated Security=True;Connect Timeout=30");
-            
+        
+              SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\lovel\OneDrive\Documents\Shop.mdf;Integrated Security=True;Connect Timeout=30");
+                
         
         public bool UDI(String query)
         {
@@ -21,7 +22,7 @@ namespace DataAccessLayer
             con.Close();
             return c;
         }
-        public DataTable SearchById(String query)
+        public DataTable Search(String query)
         {
             con.Open();
             SqlDataAdapter adapt=new SqlDataAdapter(query, con);

@@ -7,3 +7,12 @@ C:\Users\user\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.Core
 C:\Users\user\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\user\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\user\source\repos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\DataAccessLayer\bin\Debug\AppProps1.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\DataAccessLayer\bin\Debug\AppProps1.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,18 @@
+C:\Users\user\source\repos\AppProps1\bin\Debug\AppProps1.dll
+C:\Users\user\source\repos\AppProps1\bin\Debug\AppProps1.pdb
+C:\Users\user\source\repos\AppProps1\obj\Debug\AppProps.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AppProps1\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AppProps1\obj\Debug\AppProps1.dll
+C:\Users\user\source\repos\AppProps1\obj\Debug\AppProps1.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps1\bin\Debug\AppProps1.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps1\bin\Debug\AppProps1.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps1\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps1\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps1\obj\Debug\AppProps1.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps1\obj\Debug\AppProps1.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps\bin\Debug\AppProps1.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps\bin\Debug\AppProps1.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps\obj\Debug\AppProps1.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\AppProps\obj\Debug\AppProps1.pdb

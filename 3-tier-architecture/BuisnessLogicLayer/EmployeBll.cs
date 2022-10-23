@@ -15,10 +15,24 @@ namespace BuisnessLogicLayer
         {
             return empdal.AddEmployeeDal(e);
         }
+        public bool UpdateEmployeeBll(Employee e)
+        {
+            return empdal.UpdateEmployeeDal(e);
+        }
+        public bool DeleteEmployeeBll(Employee e)
+        {
+            return empdal.DeleteEmployeeDal(e);
+        }
+
         public DataTable SearchByIdEmployeeBll(Employee e)
         {
             
             return empdal.SearchbyidEmployeeDal(e);
+        }
+        public DataTable SearchEmployeeBll()
+        {
+
+            return empdal.SearchEmployeeDal();
         }
     }
 }

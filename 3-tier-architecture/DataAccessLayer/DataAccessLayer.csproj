@@ -41,12 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomersDal.cs" />
     <Compile Include="Dbcon.cs" />
     <Compile Include="EmployeeDal.cs" />
+    <Compile Include="ProductsDal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SuppliersDal.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AppProps1\AppProps.csproj">
+    <ProjectReference Include="..\AppProps\AppProps.csproj">
       <Project>{cb5c4480-4f64-474d-8f64-3658692c9994}</Project>
       <Name>AppProps</Name>
     </ProjectReference>

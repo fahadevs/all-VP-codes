@@ -15,3 +15,25 @@ C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.csp
 C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.csproj.CopyComplete
 C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.exe
 C:\Users\user\source\repos\3-tier architecture\obj\Debug\3-tier architecture.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\bin\Debug\3-tier architecture.exe.config
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\bin\Debug\3-tier architecture.exe
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\bin\Debug\3-tier architecture.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\bin\Debug\AppProps1.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\bin\Debug\BuisnessLogicLayer.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\bin\Debug\DataAccessLayer.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\bin\Debug\AppProps1.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\bin\Debug\BuisnessLogicLayer.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\bin\Debug\DataAccessLayer.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\3-tier architecture.csproj.AssemblyReference.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\3-tier architecture.csproj.SuggestedBindingRedirects.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\_3_tier_architecture.Dashboard.resources
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\_3_tier_architecture.PresentationLayer.resources
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\_3_tier_architecture.ProductsForm.resources
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\_3_tier_architecture.Properties.Resources.resources
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\3-tier architecture.csproj.GenerateResource.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\3-tier architecture.csproj.CoreCompileInputs.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\3-tier architecture.csproj.CopyComplete
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\3-tier architecture.exe
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\3-tier architecture.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\_3_tier_architecture.CustomersForm.resources
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\obj\Debug\_3_tier_architecture.SuppliersForm.resources

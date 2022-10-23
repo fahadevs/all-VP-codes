@@ -16,7 +16,7 @@ namespace _3_tier_architecture
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PresentationLayer());
+            Application.Run(new Dashboard());
         }
     }
 }

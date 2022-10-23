@@ -9,3 +9,14 @@ C:\Users\user\source\repos\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.cspro
 C:\Users\user\source\repos\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.CopyComplete
 C:\Users\user\source\repos\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.dll
 C:\Users\user\source\repos\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\bin\Debug\BuisnessLogicLayer.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\bin\Debug\BuisnessLogicLayer.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\bin\Debug\AppProps1.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\bin\Debug\AppProps1.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.CopyComplete
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.dll
+C:\Users\lovel\OneDrive\Desktop\New folder\all-VP-codes\3-tier-architecture\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.pdb
